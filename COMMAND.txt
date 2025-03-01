@@ -1,0 +1,4 @@
+0.AUTOMATION:crontab -e
+0 * * * * cd /home/mashaal/env_monitoring_systems && ./run_monitor.sh
+1.COMPILE:gcc main.c functions.c -o env_monitor -lcurl -ljansson
+2.RUN SCRIPT:./run_monitor.sh

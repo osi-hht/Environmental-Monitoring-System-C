@@ -1,0 +1,12 @@
+ALERT TIME: 2024-11-16 19:05:51
+Critical Temperature Alert! Temperature: 28.90°C
+
+ALERT TIME: 2024-11-16 19:05:51
+Critical Humidity Alert! Humidity: 48.00%
+
+ALERT TIME: 2024-11-16 19:11:30
+Critical Temperature Alert! Temperature: 28.90°C
+
+ALERT TIME: 2024-11-16 19:11:30
+Critical Humidity Alert! Humidity: 48.00%
+
